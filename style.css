@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-position: center;
+	background-image: url(bckg.jpg);
+    background-size: cover;
+}
+h1 {
+	background: #dee3e8;
+	border-radius: 10px;
+	width: 300px;
+	padding: 5px;
+}
+h2 {
+	background: #dee3e8;
+	border-radius: 10px;
+	width: 750px;
+	padding: 5px;
+}
+span
+{
+	font-size: 22px;
+	color: white;
+}
+img {
+	width: 500px;
+	height: 1000px;
+	display: none;
+}
