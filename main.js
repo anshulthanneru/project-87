@@ -25,8 +25,7 @@ function new_image(get_image) {
 
 window.addEventListener("keydown", my_keydown);
 
-function my_keydown(e)
-{
+function my_keydown(e) {
 keyPressed = e.keyCode;
 console.log(keyPressed);
 
